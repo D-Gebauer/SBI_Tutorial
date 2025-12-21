@@ -56,8 +56,8 @@ The tutorials are organized into four notebooks:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/D-Gebauer/SBI_Tutorial.git
+    cd SBI_Tutorial
     ```
 
 2.  Create a conda environment (recommended):
