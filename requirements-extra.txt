@@ -1,0 +1,5 @@
+# Additional packages for Notebooks 6, 8 and 9 (install after requirements.txt)
+# ltu-ili and sbikit both need sbi 0.27
+sbi==0.27.*
+ltu-ili[pytorch] @ git+https://github.com/maho3/ltu-ili.git
+sbikit @ git+https://github.com/D-Gebauer/sbikit.git

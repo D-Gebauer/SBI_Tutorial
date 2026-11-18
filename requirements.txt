@@ -6,3 +6,7 @@ scikit-learn
 jupyter
 tarp
 deprecation
+emcee
+chainconsumer
+pandas
+tqdm
